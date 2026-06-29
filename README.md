@@ -18,8 +18,6 @@ A Verilog HDL implementation of a 1×3 Packet Router with modular RTL design and
 ## Tools
 - Verilog HDL
 - ModelSim
-- Notepad++
-- Git & GitHub
 
 ## Project Status
 - ✅ FIFO
